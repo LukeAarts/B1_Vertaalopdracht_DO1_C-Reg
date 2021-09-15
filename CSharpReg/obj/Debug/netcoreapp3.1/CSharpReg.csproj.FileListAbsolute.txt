@@ -24,3 +24,10 @@ C:\xampp\htdocs\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\C
 C:\xampp\htdocs\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.csproj.CoreCompileInputs.cache
 C:\xampp\htdocs\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.dll
 C:\xampp\htdocs\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.pdb
+C:\xampp\htdocs\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Debug\netcoreapp3.1\CSharpReg.exe
+C:\xampp\htdocs\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Debug\netcoreapp3.1\CSharpReg.deps.json
+C:\xampp\htdocs\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Debug\netcoreapp3.1\CSharpReg.runtimeconfig.json
+C:\xampp\htdocs\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Debug\netcoreapp3.1\CSharpReg.runtimeconfig.dev.json
+C:\xampp\htdocs\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Debug\netcoreapp3.1\CSharpReg.dll
+C:\xampp\htdocs\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Debug\netcoreapp3.1\CSharpReg.pdb
+C:\xampp\htdocs\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.genruntimeconfig.cache
