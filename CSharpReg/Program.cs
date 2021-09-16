@@ -104,12 +104,10 @@ namespace CSharpReg
                         }
                     }
                 }
-                // TODO: If-statement corrigeren
                 else if (keuze == "2")
                 {
                     // TODO: Afmaken
                 }
-                // TODO: If-statement corrigeren
                 else if (keuze == "3")
                 {
                     // TODO: Afmaken
